@@ -1,0 +1,6 @@
+C:\Users\dujin_000\Source\Repos\sort\sort\bin\Debug\sort.exe.config
+C:\Users\dujin_000\Source\Repos\sort\sort\bin\Debug\sort.exe
+C:\Users\dujin_000\Source\Repos\sort\sort\bin\Debug\sort.pdb
+C:\Users\dujin_000\Source\Repos\sort\sort\obj\Debug\sort.csprojResolveAssemblyReference.cache
+C:\Users\dujin_000\Source\Repos\sort\sort\obj\Debug\sort.exe
+C:\Users\dujin_000\Source\Repos\sort\sort\obj\Debug\sort.pdb
